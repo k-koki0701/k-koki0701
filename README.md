@@ -4,13 +4,6 @@
   </a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=k-koki0701&show_icons=true&theme=cobalt" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-koki0701&theme=cobalt" />
-</a>
-
-<a href="https://github.com/RyujiOdaJP" target="_blank">
-  <img src="https://grass-graph.moshimo.works/images/k-koki0701.png?rotate=0">
-</a>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=k-koki0701&show_icons=true&theme=cobalt" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-koki0701&theme=cobalt" /></p>
+  <p><img src="https://grass-graph.moshimo.works/images/k-koki0701.png?rotate=0"></p>
