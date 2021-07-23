@@ -1,6 +1,6 @@
 <p>
   <a href="https://twitter.com/kana_k2" target="_blank">
-    <img alt="Twitter: SyodoB" src="https://img.shields.io/twitter/follow/kana_k2.svg?style=social" />
+<!--     <img alt="Twitter: SyodoB" src="https://img.shields.io/twitter/follow/kana_k2.svg?style=social" /> -->
   </a>
 </p>
 
