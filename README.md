@@ -5,12 +5,12 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RyujiOdaJP&show_icons=true&theme=cobalt" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=k-koki0701&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyujiOdaJP&theme=cobalt" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-koki0701&theme=cobalt" />
 </a>
 
 <a href="https://github.com/RyujiOdaJP" target="_blank">
-  <img src="https://grass-graph.moshimo.works/images/RyujiOdaJP.png?rotate=0">
+  <img src="https://grass-graph.moshimo.works/images/k-koki0701.png?rotate=0">
 </a>
