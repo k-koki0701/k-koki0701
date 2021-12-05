@@ -12,6 +12,7 @@
 SDGsの普及や活動促進を目的としたアプリケーション。
 
 ポートフォリオURL: https://my-sdgs.com
+リポジトリ: https://github.com/k-koki0701/mysdgs
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=k-koki0701&show_icons=true&theme=cobalt" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-koki0701&theme=cobalt" /></p>
