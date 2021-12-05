@@ -14,7 +14,7 @@ SDGsの普及や活動促進を目的としたアプリケーション。
 ポートフォリオURL: https://my-sdgs.com
 リポジトリ: https://github.com/k-koki0701/mysdgs
 
-####現在SDGsについて勉強中です
+#### 現在SDGsについて勉強中です
 
 ## プロトタイプ作成
 
