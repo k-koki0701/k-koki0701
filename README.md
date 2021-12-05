@@ -4,8 +4,9 @@
   </a>
 </p>
 
+<p>ポートフォリオ:MySDGs</p>
+<p><a href="https://my-sdgs.com/"></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=k-koki0701&show_icons=true&theme=cobalt" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-koki0701&theme=cobalt" /></p>
 
-<p>ポートフォリオ:MySDGs</p>
-<p><a href="https://my-sdgs.com/"></p>
